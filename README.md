@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋, I'm Olivia</h2>
-<h4 align="left">I'm a 3rd-year Computer Engineering student and currently working as a frontend developer. I'm also passionate about game development and data science, and I'm working on improving myself in those areas.</h4>
+<h4 align="left">I’m a 4th-year Computer Engineering student and currently working as a Frontend Developer.
+I focus on JavaScript and React Native, building mobile applications and making frontend improvements on web projects.
+I also work with AI automation workflows using n8n.</h4>
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **JavaScript and React Native**
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
