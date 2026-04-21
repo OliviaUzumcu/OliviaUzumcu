@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Olivia</h2>
-<h4 align="left">I’m a 4th-year Computer Engineering student and currently working as a Frontend Developer.
+<h4 align="left">I’m a 4th-year Computer Engineering student and currently working as a React-Native Intern.
 I focus on JavaScript and React Native, building mobile applications and making frontend improvements on web projects.
-I also work with AI automation workflows using n8n.</h4>
+I also worked with AI automation workflows using n8n.</h4>
 
 - 🌱 I’m currently learning **JavaScript and React Native**
 
